@@ -9,3 +9,13 @@
   color: hsl(246, 100%, 50%);
   font-size: 36px;      
 }
+
+.three {
+    font-size: 24px;
+}
+
+#four {
+  background-color: rgb(12, 255, 12);
+  font-size: 24px;
+  font-weight: bold;
+}
