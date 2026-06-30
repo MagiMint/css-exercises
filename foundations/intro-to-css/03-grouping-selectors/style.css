@@ -1,1 +1,10 @@
 /* Add CSS Styling */
+
+.left {
+    background-color: #000000;
+    color: #ffffff;
+}
+
+.right {
+    background-color: #fbff00
+}
