@@ -4,3 +4,8 @@
   background-color: #f58877;
   font-family: "Verdana", "DejaVu Sans", serif;
 }
+
+#two {
+  color: hsl(246, 100%, 50%);
+  font-size: 36px;      
+}
